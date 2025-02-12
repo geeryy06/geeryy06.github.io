@@ -27,3 +27,56 @@ Ofimática (Microsoft Office, Google Docs)
 Conocimientos básicos de programación
 
 Resolución de problemas técnicos```
+
+| hola | hola | hola |
+|------|------|------|
+| hola | hola | hola |
+| hola | hola | hola |
+
+> "Sistemas operativos Windows y Linux"
+
+---
+
+😄
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              2.159591268765581,
+              41.392305166446306
+            ],
+            [
+              2.159591268765581,
+              41.382136923332325
+            ],
+            [
+              2.1740987261037503,
+              41.382136923332325
+            ],
+            [
+              2.1740987261037503,
+              41.392305166446306
+            ],
+            [
+              2.159591268765581,
+              41.392305166446306
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
+```
+
+
+
