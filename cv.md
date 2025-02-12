@@ -107,7 +107,8 @@ Resolución de problemas técnicos
 }
 ```
 
-[link](#Edat)
+[link](#Estudios)
+
 
 
 
