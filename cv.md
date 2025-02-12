@@ -18,7 +18,7 @@ Idiomes
 
 `Habilidades y Conocimientos`
 
-Manejo básico de hardware y software
+```Manejo básico de hardware y software
 
 Sistemas operativos Windows y Linux
 
@@ -27,6 +27,7 @@ Ofimática (Microsoft Office, Google Docs)
 Conocimientos básicos de programación
 
 Resolución de problemas técnicos
+```
 
 ---
 
