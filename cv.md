@@ -31,10 +31,10 @@ Resolución de problemas técnicos
 
 ---
 
-| hola | hola | hola |
-|------|------|------|
-| hola | hola | hola |
-| hola | hola | hola |
+| Virtudes          | Defectos         | Hablidaes                        |
+|-------------------|------------------|----------------------------------|
+| Paciencia         | Procrastinación  | Lógica y resolución de problemas |
+| Trabajo en equipo | Desorganización  | Autodidacta                      |
 
 > "Sistemas operativos Windows y Linux"
 
